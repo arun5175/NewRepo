@@ -4,3 +4,7 @@ http://apache-spark-user-list.1001560.n3.nabble.com/How-to-achieve-reasonable-pe
 
 http://spark.apache.org/docs/latest/programming-guide.html#rdd-persistence
 http://spark.apache.org/docs/latest/streaming-programming-guide.html
+
+
+@@@@@@@@@@@@@
+http://spark.apache.org/docs/latest/configuration.html
