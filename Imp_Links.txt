@@ -1,0 +1,6 @@
+http://spark.apache.org/docs/latest/configuration.html
+
+http://apache-spark-user-list.1001560.n3.nabble.com/How-to-achieve-reasonable-performance-on-Spark-Streaming-td7262.html
+
+http://spark.apache.org/docs/latest/programming-guide.html#rdd-persistence
+http://spark.apache.org/docs/latest/streaming-programming-guide.html
